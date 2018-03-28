@@ -44,6 +44,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.6.1"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.6.1 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.6.1"
+                    }
+                }
             }
         }
         "Release"
@@ -167,7 +175,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Timer"
         "ProductCode" = "8:{70C1EE96-C24D-4D82-B90C-F358B6762E39}"
-        "PackageCode" = "8:{4EA956F9-7674-4E28-9536-55E4C87F6FDC}"
+        "PackageCode" = "8:{1961A7A6-91AD-4D55-88F8-CF5B04AA6653}"
         "UpgradeCode" = "8:{85BFEC66-B3C4-4B93-A677-2B024AF5CCA1}"
         "AspNetVersion" = "8:2.0.50727.0"
         "RestartWWWService" = "11:FALSE"
