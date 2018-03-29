@@ -15,7 +15,7 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_47B65527501C462291FA2DB6CCF70829"
+        "MsmKey" = "8:_3AEBD0B5FF5842F4B13E3854DE02C197"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -76,6 +76,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.6.1"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.6.1 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.6.1"
+                    }
+                }
             }
         }
     }
@@ -98,7 +106,7 @@
         }
         "File"
         {
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_47B65527501C462291FA2DB6CCF70829"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3AEBD0B5FF5842F4B13E3854DE02C197"
             {
             "SourcePath" = "8:..\\..\\Win32Timer\\Release\\Win32Timer.exe"
             "TargetName" = "8:Win32Timer.exe"
@@ -175,7 +183,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Timer"
         "ProductCode" = "8:{70C1EE96-C24D-4D82-B90C-F358B6762E39}"
-        "PackageCode" = "8:{1961A7A6-91AD-4D55-88F8-CF5B04AA6653}"
+        "PackageCode" = "8:{A3287F1B-80D2-4C51-9D36-1BE0B35A3FCB}"
         "UpgradeCode" = "8:{85BFEC66-B3C4-4B93-A677-2B024AF5CCA1}"
         "AspNetVersion" = "8:2.0.50727.0"
         "RestartWWWService" = "11:FALSE"
@@ -295,7 +303,7 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_49878EEA1FE141CFAE0F92714FB0C89B"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_8D28929B63B541D0A2CFC69119AC4773"
             {
             "Name" = "8:Timer"
             "Arguments" = "8:"
@@ -303,13 +311,13 @@
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_47B65527501C462291FA2DB6CCF70829"
+            "Target" = "8:_3AEBD0B5FF5842F4B13E3854DE02C197"
             "Folder" = "8:_8AE2D50617E4478D9679536D83670AFC"
             "WorkingFolder" = "8:_7588973138BE43A08FC9A14CD83B9CAA"
             "Icon" = "8:"
             "Feature" = "8:"
             }
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_CCDA311EFFDD4EA698574E2942CB21DF"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_D58DB252E0874575841CE05565FC72BB"
             {
             "Name" = "8:Timer"
             "Arguments" = "8:"
@@ -317,7 +325,7 @@
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_47B65527501C462291FA2DB6CCF70829"
+            "Target" = "8:_3AEBD0B5FF5842F4B13E3854DE02C197"
             "Folder" = "8:_AC3E62C129B0417292BF28047D4C300D"
             "WorkingFolder" = "8:_7588973138BE43A08FC9A14CD83B9CAA"
             "Icon" = "8:"
